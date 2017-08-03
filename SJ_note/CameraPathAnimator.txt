@@ -1,0 +1,19 @@
+/************************************************************
+************************************************************/
+■official document and tutorial
+	http://support.jasperstocker.com/camera-path-animator/documentation/
+	
+	contents
+		- Tutorialsは、よくわからなかった.
+		- GUIの説明がわかり易いので、こちらを見て、やりたいことは実現できそう.
+		- Code:AnimatorでCamera workのStart/Stopや、path上のSeekなどの説明もあるので、活用すること.
+
+	
+■【Unity】 Camera Path Animatorの使い方
+	http://koma2961.hatenablog.com/entry/2015/08/02/012322
+	
+	contents
+		simpleな使い方の紹介
+	
+	
+
